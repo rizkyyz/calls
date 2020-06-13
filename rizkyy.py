@@ -27,6 +27,8 @@ bersih()
 subprocess.call("figlet -f banner Mapclub|lolcat",shell=True)
 print ("\033[1;96m          SpamOTP \033[1;97mAll Operator")
 print ("\033[1;97m_"*50)
+print ("MyName:\033[1;96mRizkyy")
+ptint (")
 print ("Author:\033[1;96mTN.Angel")
 print ("\033[1;97mGrup:\033[1;96mTwentyTwoCyberAttack")
 print ("\033[1;97mGithub :\033[1;92mhttps://github.com/rizkkyz")
@@ -45,7 +47,7 @@ dot = {
 "phone": no,
 }
 print ("\033[1;97m_"*50)
-kata("\033[1;93m[\033[1;97m> > > > > > > > >\033[1;93m]")
+kata("\033[1;93m[\033[1;97m> > > >OTW SAYANG> > > > >\033[1;93m]")
 def kirim():
     time.sleep(1)
     r = requests.post("https://cmsapi.mapclub.com/api/signup-otp", data=dot, headers=head)
