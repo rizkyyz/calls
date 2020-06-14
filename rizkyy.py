@@ -1,6 +1,6 @@
 #HalloBangSad
 #MauRecodeYa?
-#Silahkeun:)
+#TnAngel:)
 import os,sys,time,requests
 from requests import post
 import subprocess
