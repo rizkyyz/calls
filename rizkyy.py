@@ -28,12 +28,13 @@ subprocess.call("figlet -f banner Mapclub|lolcat",shell=True)
 print ("\033[1;96m          SpamOTP \033[1;97mAll Operator")
 print ("\033[1;97m_"*100)
 print ("MyName:\033[1;96mRizkyy")
-print ("Author:\033[1;96mTN.Angel")
+print ("Author:\033[1;96mAntiBocahHerli+Chandra")
 print ("\033[1;97mGrup:\033[1;96mTwentyTwoCyberAttack")
 print ("\033[1;97mGithub :\033[1;92mhttps://github.com/rizkyyz")
 print ("\033[1;97m_"*100)
-try:
-    no = input("\033[1;97m[\033[1;96mMasukan Nomor Target\033[1;97m]:\033[1;92m")
+print ("Noherli:\033[1;96mNoHerli:+6285255776816")
+  try :
+    no = input("\033[1;97m[\033[1;96mMasukan Nomor HerlidanKawannya\033[1;97m]:\033[1;92m")
     jl = int(input("\033[1;97m[\033[1;96mMasukan Jumlah Spam\033[1;97m]:\033[1;92m"))
 except KeyboardInterrupt:
        print ("\033[1;91mStop!!\033[1;97m")
