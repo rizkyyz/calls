@@ -3,9 +3,10 @@ print ("=====================================")
 panjang = raw_input("masukin angka pertama :")
 lebar = input("masukin angka ke dua :")
 luasi = panjang + lebar
-print(luas)
+luasy = panjang - lebar
+print(luasi)
 print("~~~~~~~~")
 print ("______________Tools kurang__________")
 print ("=====================================")
-luasy = panjang - lebar
 print(luasy)
+print("~~~~~~~~")
