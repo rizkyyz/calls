@@ -1,7 +1,6 @@
 print ("______________Tools perkalian__________")
 print ("=====================================")
-a = raw_input ("masukan nilai lu ye : ")
-d = raw_input ("masukan nilai ke dua : ")
-hasil = a*d
-print (hasil)
- 
+panjang = raw_input("masukin angka pertama :")
+lebar = input("masukin angka ke dua :")
+luas = panjang * lebar
+print(luas)
