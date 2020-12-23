@@ -1,5 +1,5 @@
 
-print('____________|`Rizky Codekulato`|_______')
+print('____________|`Rizky Codekulator`|_______')
 print('=======================================')
 def tambah(x, y):
     return x + y
