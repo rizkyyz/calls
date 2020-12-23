@@ -1,7 +1,7 @@
-print ("______________Tools Spammer__________")
+print ("______________Tools perkalian__________")
 print ("=====================================")
-a = 12
-d = 10
+a = raw_input ("masukan nilai lu ye : ")
+d = raw_input ("masukan nilai ke dua : ")
 t = a*d
 print ("jadi hasilnya : ",t)
  
